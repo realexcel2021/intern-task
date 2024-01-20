@@ -7,7 +7,7 @@
 ### Deploy a sample Node.js app using terraform
 
 1. When kind is up and running, dockerize a simple hello world [express](https://expressjs.com/en/starter/hello-world.html) and deploy to dockerhub
-2. create a kubernetes deployment manifest to deploy to deploy the Node.js to the kind cluste but don't apply it yet
+2. create a kubernetes deployment manifest to deploy the Node.js to the kind cluste but don't apply it yet
 3. using the [kubectl terraform provider](https://registry.terraform.io/providers/gavinbunney/kubectl/latest/docs), write a terraform code to deploy the kubectl manifest to the kind cluster 
 
 ### Bonus
