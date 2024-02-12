@@ -17,5 +17,5 @@
 ### Submission
 
 1. Create a repository with all your code in it
-2. Send an email to intern.task@ignite.dev on or before 02/17/2024
+2. Send an email to task_submission@ignite.dev on or before 02/17/2024
    
