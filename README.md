@@ -19,3 +19,9 @@
 1. Create a repository with all your code in it
 2. Send an email to task_submission@ignite.dev on or before 02/17/2024
    
+### Code Explanation
+
+In directory structure, the `/terraform` folder is where the terraform configuraion to apply the kubernetes manifests are
+
+`/kind` folder contains the kind `kind-config.yml` file and a script to spin up a kind cluster and install kind if kind is not found on the hast machine
+
